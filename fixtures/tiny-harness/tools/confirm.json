@@ -1,0 +1,7 @@
+{
+  "name": "confirm",
+  "description": "Read the claim back to the caller.",
+  "parameters": {
+    "claim_id": "string"
+  }
+}

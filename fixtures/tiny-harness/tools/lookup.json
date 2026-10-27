@@ -1,0 +1,7 @@
+{
+  "name": "lookup",
+  "description": "Read a claim by id.",
+  "parameters": {
+    "claim_id": "string"
+  }
+}

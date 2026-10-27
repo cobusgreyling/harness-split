@@ -1,0 +1,9 @@
+{
+  "name": "update",
+  "description": "Write one claim field.",
+  "parameters": {
+    "claim_id": "string",
+    "field": "string",
+    "value": "string"
+  }
+}

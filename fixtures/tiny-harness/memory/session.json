@@ -1,0 +1,6 @@
+{
+  "claim_id": "CLM-104",
+  "missing": ["incident_date"],
+  "turns": 3,
+  "model": "small"
+}

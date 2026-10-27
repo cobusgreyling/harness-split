@@ -1,0 +1,6 @@
+name: ship
+require_human: true
+block_when:
+  - missing_field
+  - over_limit
+note: a person closes the gate
